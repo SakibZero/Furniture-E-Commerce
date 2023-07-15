@@ -513,10 +513,13 @@ h3 {
 .frame-3 .about-area {
     display: flex;
     justify-content: space-between;
+}
+
+.frame-3 .about-area .box {
     margin-right: 120px;
 }
 
-.frame-3 .about-area:last-child {
+.frame-3 .about-area .box:last-child {
     margin-right: 0;
 }
 
