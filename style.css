@@ -502,12 +502,15 @@ h3 {
 }
 
 .about-area li {
+    margin-top: 28px;
+}
+
+.about-area li a {
     color: #7E7F7C;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
     line-height: 20px; 
-    margin-top: 28px;
 }
 
 .frame-3 .about-area {
